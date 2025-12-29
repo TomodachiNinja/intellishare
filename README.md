@@ -482,17 +482,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact & Support
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@intellishare.gov.in)
-[![Documentation](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.intellishare.gov.in)
-
-</div>
-
----
 
 ## 📊 Project Stats
 
