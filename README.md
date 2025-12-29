@@ -358,25 +358,6 @@ graph TD
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Dashboard Overview
-*Real-time operational intelligence with crime heatmap and analytics*
-
-### 🔍 Deep Search Interface
-*Cross-database querying across CCTNS, Vahan, Immigration & Financial records*
-
-### 📊 Analytics Dashboard
-*Pattern detection, link analysis, and predictive modeling*
-
-### 📥 Data Ingestion Hub
-*Multi-source data upload with AI-powered entity extraction*
-
-</div>
-
----
 
 ## 🚀 API Integrations
 
